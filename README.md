@@ -1,4 +1,4 @@
-# reactive-snake
+# reactive-snake socks
 
 Taming snakes with reactive streams
 
